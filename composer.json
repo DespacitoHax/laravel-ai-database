@@ -1,0 +1,46 @@
+{
+  "name": "mostafaarafat/laravel-ai-database",
+  "description": "AI-powered database query assistant for Laravel",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mostafa Arafat Amin",
+      "email": "mostafaarafat199@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^8.0|^8.1|^8.2|^8.3|^8.4|^8.5",
+    "illuminate/support": "^8.0|^8.1|^8.2|^8.3|^8.4|^8.5|^9.0|^10.0|^11.0"
+  },
+  "require-dev": {
+    "orchestra/testbench": "^8.0|^9.0",
+    "phpunit/phpunit": "^10.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Mostafaarafat\\AiDatabase\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Mostafaarafat\\AiDatabase\\Tests\\": "tests/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Mostafaarafat\\AiDatabase\\AiDatabaseServiceProvider"
+      ],
+      "aliases": {
+        "AiDatabase": "Mostafaarafat\\AiDatabase\\Facades\\AiDatabase"
+      }
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
+
+
+
+
